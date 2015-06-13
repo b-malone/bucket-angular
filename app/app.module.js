@@ -1,2 +1,2 @@
 
-var BucketApp = angular.module('BucketApp', []);
+var BucketApp = angular.module('BucketApp', ['ngRoute']);

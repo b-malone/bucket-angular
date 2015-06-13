@@ -18,6 +18,7 @@
   "dependencies": {
     "bootstrap": "~3.3.4",
     "angular": "~1.4.0",
-    "jquery-2.1.0.min": "http://code.jquery.com/jquery-2.1.0.min.js"
+    "jquery-2.1.0.min": "http://code.jquery.com/jquery-2.1.0.min.js",
+    "angular-route": "~1.4.0"
   }
 }
